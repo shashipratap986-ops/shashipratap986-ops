@@ -135,7 +135,7 @@ I'm especially interested in roles where I can combine **SQL + Excel + Power BI 
 <img src="https://img.shields.io/badge/Email-shashipratap986%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/shashi-pratap-a15097262/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
